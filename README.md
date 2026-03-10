@@ -24,3 +24,21 @@ Plotted regression line using Matplotlib
  8. NumPy Matrix Transpose
  9. NumPy Matrix Multiplication
  10. NumPy Save & Load
+
+# Pandas Basics
+
+## Topics Covered:
+
+- Introduction to Pandas  
+- Pandas Data Structures  
+- Pandas Series Object  
+- Changing Index  
+- Creating Series from Dictionary  
+- Changing Index Position  
+- Extracting Individual Elements  
+- Basic Math Operations on Series  
+- Pandas DataFrame  
+- Creating a DataFrame  
+- DataFrame Inbuilt Functions  
+- `.iloc[]` Indexing  
+- Additional Pandas Functions
