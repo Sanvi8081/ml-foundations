@@ -25,7 +25,7 @@ Plotted regression line using Matplotlib
  9. NumPy Matrix Multiplication
  10. NumPy Save & Load
 
-# Pandas Basics
+# Pandas
 
 ## Topics Covered:
 
