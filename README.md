@@ -1,4 +1,4 @@
-MACHINE LEARNING COURSE
+MACHINE LEARNING COURSE:
  
 1.Linear Regression
  Implemented Linear Regression from scratch using NumPy and Matplotlib to understand the mathematical foundation behind the algorithm.
