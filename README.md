@@ -42,3 +42,17 @@ Plotted regression line using Matplotlib
 - DataFrame Inbuilt Functions  
 - `.iloc[]` Indexing  
 - Additional Pandas Functions
+
+
+## Matplotlib
+
+## Topics Covered:
+1.Line Plot
+2.Bar Plot
+3.Horizontal Bar Plot
+4.Scatter Plot
+5.Histogram
+6.Box Plot
+7.Violin Plot
+8.Pie Chart
+9.DoughNut Chart
