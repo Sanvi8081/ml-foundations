@@ -1,58 +1,80 @@
-MACHINE LEARNING COURSE:
- 
-1.Linear Regression
- Implemented Linear Regression from scratch using NumPy and Matplotlib to understand the mathematical foundation behind the algorithm.
-🛠 Implementation
+# 🚀 Machine Learning Foundations
 
-Calculated mean using NumPy
+This repository documents my journey of learning **Machine Learning and core Python data science libraries**.
+The goal is to build strong fundamentals by implementing algorithms and practicing with **NumPy, Pandas, and Matplotlib**.
 
-Computed slope and intercept manually
+---
 
-Generated predictions
+# 📈 Machine Learning
 
-Plotted regression line using Matplotlib
+## Linear Regression (From Scratch)
 
- ## Numpy
- ## Topics Covered:
- 1. Python Numpy
- 2. Creating NumPy Array
- 3. NumPy-Shape
- 4. Joining NumPy Arrays
- 5. NumPy Intersection & Difference
- 6. Numpy Array Mathematics
- 7. NumPy Matrix
- 8. NumPy Matrix Transpose
- 9. NumPy Matrix Multiplication
- 10. NumPy Save & Load
+Implemented **Linear Regression using NumPy and Matplotlib** to understand the mathematical foundation of the algorithm.
 
-# Pandas
+**Implementation Steps**
 
-## Topics Covered:
+* Calculated dataset **mean using NumPy**
+* Computed **slope and intercept manually**
+* Generated **predictions**
+* Visualized the **regression line using Matplotlib**
 
-- Introduction to Pandas  
-- Pandas Data Structures  
-- Pandas Series Object  
-- Changing Index  
-- Creating Series from Dictionary  
-- Changing Index Position  
-- Extracting Individual Elements  
-- Basic Math Operations on Series  
-- Pandas DataFrame  
-- Creating a DataFrame  
-- DataFrame Inbuilt Functions  
-- `.iloc[]` Indexing  
-- Additional Pandas Functions
+---
+
+# 🧮 NumPy
+
+**Topics Covered**
+
+* Creating NumPy Arrays
+* Array Shape
+* Joining Arrays
+* Intersection & Difference
+* Array Mathematics
+* Matrix Operations
+* Matrix Transpose
+* Matrix Multiplication
+* Save & Load Arrays
+
+---
+
+# 🐼 Pandas
+
+**Topics Covered**
+
+* Introduction to Pandas
+* Pandas Series
+* Index Manipulation
+* Series from Dictionary
+* Extracting Elements
+* Mathematical Operations on Series
+* Pandas DataFrame
+* DataFrame Functions
+* `.iloc[]` Indexing
+
+---
+
+# 📊 Matplotlib
+
+**Visualizations Implemented**
+
+* Line Plot
+* Bar Plot
+* Scatter Plot
+* Histogram
+* Box Plot
+* Violin Plot
+* Pie Chart
+* Doughnut Chart
+
+---
+
+# 🛠 Tech Stack
+
+* **Python**
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **Jupyter Notebook**
 
 
-## Matplotlib
 
-## Topics Covered:
-1.Line Plot
-2.Bar Plot
-3.Horizontal Bar Plot
-4.Scatter Plot
-5.Histogram
-6.Box Plot
-7.Violin Plot
-8.Pie Chart
-9.DoughNut Chart
+
