@@ -7,7 +7,7 @@ The goal is to build strong fundamentals by implementing algorithms and practici
 
 # 📈 Machine Learning
 
-## Linear Regression (From Scratch)
+## Linear Regression  (From Scratch)
 
 Implemented **Linear Regression using NumPy and Matplotlib** to understand the mathematical foundation of the algorithm.
 
