@@ -75,6 +75,27 @@ Implemented **Linear Regression using NumPy and Matplotlib** to understand the m
 * **Matplotlib**
 * **Jupyter Notebook**
 
+# 📉 Stock Market Data Analysis (yfinance)
 
+Implemented Stock Market Data Analysis using Python and yfinance to understand financial data and prepare features for machine learning.
+
+Implementation Steps
+
+* Downloaded historical stock data using yfinance
+* Performed OHLC data analysis
+* Calculated Moving Averages (MA_5, MA_10)
+* Calculated Daily Returns
+* Calculated Volatility
+* Created High-Low and Open-Close features
+* Visualized Stock Price, Moving Average, Returns, and Volatility using Matplotlib
+* Saved processed stock data to CSV file
+
+Libraries Used
+
+**Python** 
+**yfinance** 
+**pandas** 
+**NumPy** 
+**Matplotlib**
 
 
